@@ -1,0 +1,10 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+
+# Hardware Secrets
+secrets.h
+
+# Environment files (just in case)
+.env
